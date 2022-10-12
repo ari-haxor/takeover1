@@ -1,0 +1,144 @@
+<html>
+<title>Exploited by Array</title>
+<head>
+<meta property="og:description" content="Wh00pz...Your Security Get Down!!"/>    
+<meta property="og:image" content="https://k.top4top.io/p_2400ekq511.png"/>
+<link rel="shortcut icon" href="https://k.top4top.io/p_2400ekq511.png"/>
+<meta http-equiv="cache-control" content="index,cache">
+<meta http-equiv="pragma" content="public">
+<link rel="stylesheet" type="text/css" href="https://ia601501.us.archive.org/22/items/animated_201809/animated.css">
+</head>
+<link href="https://fonts.googleapis.com/css?family=VT323:wght@300&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=VT323:New+Rocker" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+html {
+background-image:url(https://l.top4top.io/p_2401bkrdv3.gif);
+background-color: black;
+background-size: cover;
+background-attachment: fixed;
+font-family: 'Orbitron';
+}
+body {
+ color: white;
+}
+h1 {
+ color: #7a00ff; 
+}
+.g7 {
+ color: #ff0000;
+ }
+.btn {
+ width: 200px;
+ height: 30px;
+ outline: none;
+ color: #fff;
+ background: #111;
+ cursor: pointer;
+ position: relative;
+ font-family: Orbitron;
+ z-index: 0;
+ border-radius: 10px;
+}
+.btn:before { content: '';
+ background: linear-gradient(45deg, #ff0000, #002bff, #7a00ff, #ff00c8, #ff0000);
+ position: absolute;
+ top: -2px;
+ left:-2px;
+ background-size: 400%;
+ z-index: -1;
+ filter: blur(5px);
+ width: calc(100% + 4px);
+ height: calc(100% + 4px);
+ animation: glowing 20s linear infinite;
+ opacity: 0;
+ transition: opacity .3s ease-in-out; border-radius: 10px;
+}
+.btn:active {
+ color: #000;
+}
+.btn:active:after {
+ background: transparent;
+}
+.btn:hover:before { 
+ opacity: 1;
+}
+.btn:after {
+ z-index: -1; 
+ content: '';
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ background: #111;
+ left: 0;
+ top: 0;
+ border-radius: 10px;
+}
+@keyframes glowing { 0% { background-position: 0 0; } 50% { background-position: 400% 0; } 100% { background-position: 0 0; }}
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+.x{
+	  animation: shake 1s;
+  animation-iteration-count: infinite;
+	}
+r {
+	color: red;
+}
+</style>
+<center>
+		<script>function play(){ var audio = document.getElementById("lagu"); audio.play();}function pause(){ var audio = document.getElementById("lagu"); audio.pause();}</script>
+<link href="https://fonts.googleapis.com/css?family=Kelly+Slab" rel="stylesheet">
+</head>
+<style>
+body {
+background-image:url(https://l.top4top.io/p_2401bkrdv3.gif);
+background-size:cover;
+background-attachment: fixed;
+color : black;
+font-family : Kelly Slab;
+}
+.tengahken {
+position : absolute;
+margin : auto;
+height : 50%;
+top : 0;
+bottom : 0;
+left : 0;
+right : 0;
+}
+</style>
+<center>
+<div class="tengahken">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+	<div class="x"><img src="https://k.top4top.io/p_2400ekq511.png" width="290px" height="285px"></div><br>
+<br><font face="vt323" size="15px" color="white">Pwndz by <r>Array</r></font></a>
+<br><br><font size="5px" color="white"><i>Sometimes it pays to stay in <r>bed on Monday,</r> rather than spending<br>the rest of the week debugging <r>Monday's code.</r></i></font><br>
+	<br><font size="5px" color="white"> Greetz: </font><br>
+		<marquee bgcolor="red" scrolldelay="20" scrollamount="5" direction="left" behavior="scroll" width="40%"><font size="3px" color="black">Fell - Erza Julian - Chemod-77 - MssXcode - Xolots404 - Connor9k - Micin - Omest - T1D4K D1K3N4L - Naskleng45 - Asep</font></marquee><br>
+<br></font> 
+<font size="3" color="white">indodefacer@gmail.com</font>
+<br>
+<br>
+<button class="btn" onclick="play()"><font size="3">Play music</font></button>&nbsp;&nbsp;<button class="btn" onclick="pause()"><font size="3">Pause music</font></button>
+                        <audio id="lagu" src="https://f.top4top.io/m_19784sbog0.mp3"></audio><br> </body>  <br><br>
+    </div><body><br><body></iframe><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+</center>
+</body>
+</html>
